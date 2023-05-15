@@ -1,0 +1,5 @@
+Write a Python program that implements the steg algorithms. More instructions are provided in steg.pdf file.
+
+This is a group programming assignment (i.e., only one submission per group is needed). 
+
+Can you find the hidden messages in this[stegged-bit.bmp] (-b -o1024)? FYI, it's the same image, but as a JPG and flipped. What about this[stegged-byte.bmp] (-B -o1024 -i8 *and* -B -o1025 -i2)? FYI, the first is the same thing as in the prior example; the second is some text.
